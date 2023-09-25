@@ -1,4 +1,4 @@
-# aleatorio
+# Real Trends Clone
 
 A new Flutter project.
 
